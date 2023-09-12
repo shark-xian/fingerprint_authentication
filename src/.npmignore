@@ -1,0 +1,9 @@
+*.map
+*.ts
+!*.d.ts
+tsconfig.json
+package-lock.json
+references.d.ts
+platforms/android/*
+!platforms/android/include.gradle
+!platforms/android/*.aar
